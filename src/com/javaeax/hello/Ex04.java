@@ -10,7 +10,7 @@ public class Ex04 {
 		l[2] = (long)(Math.random()*100)+1;
 		
 		for(int i= 0; i<3; i++) {
-			System.out.println(l[i]);
+			System.out.print(l[i]+"\t");
 		}
 
 	}
